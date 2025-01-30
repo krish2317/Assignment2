@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Programming_Software_QA\\Assignment2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1968C923-E91C-4D49-AB76-E36507F8A08B}|ProductTest.nunitTests\\ProductTest.nunitTests.csproj|c:\\programming_software_qa\\assignment2\\producttest.nunittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1968C923-E91C-4D49-AB76-E36507F8A08B}|ProductTest.nunitTests\\ProductTest.nunitTests.csproj|solutionrelative:producttest.nunittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{76BFC005-9B4E-4894-844A-99F97E0A9E20}|Assignment2\\Assignment2.csproj|c:\\programming_software_qa\\assignment2\\assignment2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76BFC005-9B4E-4894-844A-99F97E0A9E20}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{76BFC005-9B4E-4894-844A-99F97E0A9E20}|Assignment2\\Assignment2.csproj|c:\\programming_software_qa\\assignment2\\assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76BFC005-9B4E-4894-844A-99F97E0A9E20}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1968C923-E91C-4D49-AB76-E36507F8A08B}|ProductTest.nunitTests\\ProductTest.nunitTests.csproj|c:\\programming_software_qa\\assignment2\\producttest.nunittests\\producttest.nunittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1968C923-E91C-4D49-AB76-E36507F8A08B}|ProductTest.nunitTests\\ProductTest.nunitTests.csproj|solutionrelative:producttest.nunittests\\producttest.nunittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,26 +42,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductTest.nunitTests",
+              "DocumentMoniker": "C:\\Programming_Software_QA\\Assignment2\\ProductTest.nunitTests\\ProductTest.nunitTests.csproj",
+              "RelativeDocumentMoniker": "ProductTest.nunitTests\\ProductTest.nunitTests.csproj",
+              "ToolTip": "C:\\Programming_Software_QA\\Assignment2\\ProductTest.nunitTests\\ProductTest.nunitTests.csproj",
+              "RelativeToolTip": "ProductTest.nunitTests\\ProductTest.nunitTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-30T17:03:13.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Programming_Software_QA\\Assignment2\\ProductTest.nunitTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ProductTest.nunitTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Programming_Software_QA\\Assignment2\\ProductTest.nunitTests\\UnitTest1.cs",
+              "RelativeToolTip": "ProductTest.nunitTests\\UnitTest1.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwFkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T16:22:11.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Programming_Software_QA\\Assignment2\\Assignment2\\Product.cs",
               "RelativeDocumentMoniker": "Assignment2\\Product.cs",
               "ToolTip": "C:\\Programming_Software_QA\\Assignment2\\Assignment2\\Product.cs",
               "RelativeToolTip": "Assignment2\\Product.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwDoAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-29T16:55:29.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Programming_Software_QA\\Assignment2\\Assignment2\\Program.cs",
               "RelativeDocumentMoniker": "Assignment2\\Program.cs",
               "ToolTip": "C:\\Programming_Software_QA\\Assignment2\\Assignment2\\Program.cs",
               "RelativeToolTip": "Assignment2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-29T16:47:07.647Z",
               "EditorCaption": ""

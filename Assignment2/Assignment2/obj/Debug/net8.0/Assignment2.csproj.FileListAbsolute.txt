@@ -1,0 +1,15 @@
+C:\Programming_Software_QA\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming_Software_QA\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.AssemblyInfoInputs.cache
+C:\Programming_Software_QA\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.AssemblyInfo.cs
+C:\Programming_Software_QA\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.csproj.CoreCompileInputs.cache
+C:\Programming_Software_QA\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.sourcelink.json
+C:\Programming_Software_QA\Assignment2\Assignment2\bin\Debug\net8.0\Assignment2.exe
+C:\Programming_Software_QA\Assignment2\Assignment2\bin\Debug\net8.0\Assignment2.deps.json
+C:\Programming_Software_QA\Assignment2\Assignment2\bin\Debug\net8.0\Assignment2.runtimeconfig.json
+C:\Programming_Software_QA\Assignment2\Assignment2\bin\Debug\net8.0\Assignment2.dll
+C:\Programming_Software_QA\Assignment2\Assignment2\bin\Debug\net8.0\Assignment2.pdb
+C:\Programming_Software_QA\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.dll
+C:\Programming_Software_QA\Assignment2\Assignment2\obj\Debug\net8.0\refint\Assignment2.dll
+C:\Programming_Software_QA\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.pdb
+C:\Programming_Software_QA\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.genruntimeconfig.cache
+C:\Programming_Software_QA\Assignment2\Assignment2\obj\Debug\net8.0\ref\Assignment2.dll

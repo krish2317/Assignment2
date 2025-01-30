@@ -6,18 +6,18 @@ using System.Threading.Tasks;
 
 namespace Assignment2
 {
-    internal class Product
+    public class Product
     {
         public int ProdID { get; set; }
         public string ProdName { get; set; }
 
-        public decimal ItemPrice {  get; set; }
+        public double ItemPrice {  get; set; }
 
-        public decimal StockAmount {  get; set; }
+        public double StockAmount {  get; set; }
 
 
         //Product Constructor
-        public Product(int id,string name,decimal price, decimal stock)
+        public Product(int id,string name,double price, double stock)
         {
 
             if (id < 5 || id > 5000)
@@ -47,16 +47,19 @@ namespace Assignment2
             StockAmount = stock;
         }
         //Method to increase stock
-        public void IncreaseStock(decimal amount)
+        public void IncreaseStock(double amount)
         {
             StockAmount += amount;
         }
 
         //Method to decrease stock
 
-        public void DecreaseStock(decimal amount) 
+        public void DecreaseStock(double amount) 
         {
-            StockAmount -= amount; 
+            if (StockAmount - amount > 5)
+            {
+                StockAmount -= amount;
+            }
         }
     }
 }
